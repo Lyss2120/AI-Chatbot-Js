@@ -6,12 +6,14 @@
 }
 
 body {
-    background: #654ea3;
+    background: #291561;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(90.2deg, #6365d8 -0.4%, #654ea3 60.1%, #6e97f7 106.1%);
+    background: -webkit-linear-gradient(90.2deg, #0b0c21 -0.4%, #291561 60.1%, #253f79 106.1%);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(90.2deg, #6365d8 -0.4%, #654ea3 60.1%, #6e97f7 106.1%);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(90.2deg, #0b0c21 -0.4%, #291561 60.1%, #253f79 106.1%);
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+
+    */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,7 +25,7 @@ body {
     width: 100%;
     max-width: 400px;
     height: 80vh;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(164, 165, 175, 0.36);
     backdrop-filter: blur(10px);
     box-shadow: 0 8px 32px rgba(36, 44, 180, 0.812);
     border-radius: 10px;
